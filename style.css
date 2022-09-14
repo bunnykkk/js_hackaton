@@ -1,0 +1,41 @@
+body {
+  background-color: #534f4f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Add padding to containers */
+.der {
+  margin-left: 40%;
+}
+.derr {
+  margin-left: 39%;
+}
+.container {
+  padding: 16px;
+  color: rgb(220, 218, 218);
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #d51111;
+  color: rgb(255, 225, 0);
+  padding: 10px 15px;
+  margin: 8px 300px;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  opacity: 0.9;
+  border-radius: 20px;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
